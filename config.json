@@ -1,0 +1,13 @@
+{
+    "database": {
+        "host": "0.0.0.0",
+        "port": 3306,
+        "username": "root",
+        "password": "quohpia3eex3taeph8ees8Bieleeth2C",
+        "database": "problem",
+        "tables": {
+            "table_a": "table_a",
+            "table_b": "table_b"
+        }
+    }
+}
